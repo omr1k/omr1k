@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">Full Time Software Tester, Junior Mobile Apps Developer(Java - android, SwiftUI - iOS)</h3>
+<h3 align="center">Full Time Software Tester, Junior Mobile Apps Developer(Swift - iOS, Java - Android)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omr1k&label=Profile%20views&color=0e75b6&style=flat" alt="omr1k" /> </p>
 
@@ -7,7 +7,7 @@
 
 - My Website [omarkhattab.tk](omarkhattab.tk)
 
-- 💬 Ask me about **Java, Python, SwiftUI, Selenium, Robot Framework, Cucumber, Appium, Jira**
+- 💬 Ask me about **Java, Python, Swift, Selenium, Robot Framework, Cucumber, Appium, Jira**
 
 - 📫 How to reach me **omr11kk@gmail.com**
 
