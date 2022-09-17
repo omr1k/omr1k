@@ -12,7 +12,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omr1k&" alt="omr1k" /></p>
 
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="52" alt="swift logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
