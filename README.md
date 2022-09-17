@@ -1,17 +1,6 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">Full Time Software Tester, Junior Mobile Apps Developer(Swift - iOS, Java - Android)</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omr1k&label=Profile%20views&color=0e75b6&style=flat" alt="omr1k" /> </p>
 
 <p align="left"> <a href="https://twitter.com/omr1k" target="blank"><img src="https://img.shields.io/twitter/follow/omr1k?logo=twitter&style=for-the-badge" alt="omr1k" /></a> </p>
-
-- My Website [omarkhattab.tk](omarkhattab.tk)
-
-- 💬 Ask me about **Java, Python, Swift, Selenium, Robot Framework, Cucumber, Appium, Jira**
-
-- 📫 How to reach me **omr11kk@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
