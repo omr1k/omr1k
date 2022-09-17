@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omr1k&label=Profile%20views&color=0e75b6&style=flat" alt="omr1k" /> </p>
+<h1 align="center">Hey 👋 What's up? My name is Omar</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,9 +25,7 @@
   </div>
 </p>
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omr1k&" alt="omr1k" /></p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omr1k&label=Profile%20views&color=0e75b6&style=flat" alt="omr1k" /> </p>
 
