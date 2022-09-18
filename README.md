@@ -25,7 +25,9 @@
   </div>
 </p>
 
+<div align="center" >
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omr1k&" alt="omr1k" /></p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omr1k&label=Profile%20views&color=0e75b6&style=flat" alt="omr1k" /> </p>
 
