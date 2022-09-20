@@ -1,4 +1,4 @@
-<h1 style="text-align: center;margin-bottom: 5px;">Hey, What's up? I'm Omar<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 style="text-align: center;margin-bottom: 5px;">Hey, What's up? I'm Omar <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
