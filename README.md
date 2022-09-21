@@ -5,7 +5,7 @@
 <a href="https://twitter.com/omr1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omr1k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omar-khattab-omr1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-khattab-omr1k" height="30" width="40" /></a>
 
-- 📫 How to reach me **omr11kk@gmail.com**
+📫 Reach me on **omr11kk@gmail.com**
 
 </p>
 
