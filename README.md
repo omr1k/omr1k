@@ -1,5 +1,11 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hey, What's up? I'm Omar <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 
+- Full-Time software QA | Selenium with Robot Framework for web testing 🔷 Appium with Robot Framework for mobile apps testing (iOS, Android) 🔷 Selenium with Java 🔷 Appium with Java 🔷 Gherkin Language 🔷 Manual Testing 🔷 API Testing
+
+- iOS Developer | Swift 🔶 SwiftUI 🔶 Xcode 🔶 urlsession 🔶 coredata 🔶 userdefaults 🔶 mapkit 🔶 uiviewcontrollerrepresentable 🔶 Async/Await 🔶 Notifications 🔶 Animations
+- Currently, I am approving my Swift knowledge 😄
+- Agile • Jira . Postman • Confluence • Slack • Version Controls (Git, GitHub, and GitLab) • MS Office Professional • Team Work
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omr1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omr1k" height="30" width="40" /></a>
