@@ -1,6 +1,6 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hey, What's up? I'm Omar <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 
-- Full-Time software QA | Selenium with Robot Framework for web testing 🔷 Appium with Robot Framework for mobile apps testing (iOS, Android) 🔷 Selenium with Java 🔷 Appium with Java 🔷 Gherkin Language 🔷 Manual Testing 🔷 API Testing
+- Full-Time software QA | Selenium 🔷 Robot Framework 🔷 Appium 🔷 Gherkin Language 🔷 API Testing 🔷 Manual Testing 
 
 - iOS Developer | Swift 🔶 SwiftUI 🔶 Xcode 🔶 urlsession 🔶 coredata 🔶 userdefaults 🔶 mapkit 🔶 uiviewcontrollerrepresentable 🔶 Async/Await 🔶 Notifications 🔶 Animations
 - Currently, I am approving my Swift knowledge 😄
