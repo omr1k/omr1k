@@ -3,7 +3,7 @@
 - Full-Time software QA | Selenium 🔷 Robot Framework 🔷 Appium 🔷 Gherkin Language 🔷 API Testing 🔷 Manual Testing 
 
 - iOS Developer | Swift 🔶 SwiftUI 🔶 Xcode 🔶 urlsession 🔶 Combine 🔶 CoreData 🔶 Userdefaults 🔶 Mapkit 🔶 uiviewcontrollerrepresentable 🔶 Async/Await 🔶 Notifications 🔶 Animations 🔶 MVVM
-- Currently, I am approving my Swift knowledge 😄
+- Currently, I am improving my Swift knowledge 😄
 - Agile • Jira . Postman • Confluence • Slack • Version Controls (Git, GitHub, and GitLab) • MS Office Professional • Team Work
 
 <h3 align="left">Connect with me:</h3>
