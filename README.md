@@ -4,7 +4,7 @@
 
 - Flutter Developer | Dart 🔹 Provider 🔹 Hive DB 🔹 Shared Preferences 🔹 Networking 🔹 Async/Await 🔹
 
-- Full-Time software QA | Selenium 🟩 Robot Framework 🟩 Appium 🟩 Gherkin Language 🟩 API Testing 🟩 Manual Testing 
+- Software QA Engineer | Selenium 🟩 Robot Framework 🟩 Appium 🟩 Gherkin Language 🟩 API Testing 🟩 Manual Testing 
 
 - Other Skills | Agile • Jira • Postman • Confluence • Slack • Git • MS Office Professional • Team Work
 
