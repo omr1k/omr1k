@@ -1,4 +1,4 @@
-<h1 style="text-align: center;margin-bottom: 5px;">Hey, I'm Omar, Passionate mobile applications Developer <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 style="text-align: center;margin-bottom: 5px;">Hey, I'm Omar <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 
 - Native iOS Developer | Swift 🔸 SwiftUI 🔸 Xcode 🔸 URLsession 🔸 Combine 🔸 CoreData 🔸 Userdefaults 🔸 Mapkit 🔸 uiviewcontrollerrepresentable 🔸 Async/Await 🔸 Notifications 🔸 Animations 🔸 MVVM
 
