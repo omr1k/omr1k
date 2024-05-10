@@ -1,12 +1,10 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hey, I'm Omar <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 
-- Native iOS Developer | Swift 🔸 SwiftUI 🔸 Xcode 🔸 URLsession 🔸 Combine 🔸 CoreData 🔸 Userdefaults 🔸 Mapkit 🔸 uiviewcontrollerrepresentable 🔸 Async/Await 🔸 Notifications 🔸 Animations 🔸 MVVM
+- Junior mobile apps developer, Native iOS/Flutter 
 
-- Flutter Developer | Dart 🔹 Provider 🔹 Hive DB 🔹 Shared Preferences 🔹 Networking 🔹 Async/Await 🔹
+- Software Tester | Selenium 🟩 Robot Framework 🟩 Appium 🟩 API Testing 🟩 Manual Testing 
 
-- Software QA Engineer | Selenium 🟩 Robot Framework 🟩 Appium 🟩 Gherkin Language 🟩 API Testing 🟩 Manual Testing 
-
-- Other Skills | Agile • Jira • Postman • Confluence • Slack • Git • MS Office Professional • Team Work
+- Agile • Jira • Postman • Confluence • Slack • Git • MS Office Professional • Team Work
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
