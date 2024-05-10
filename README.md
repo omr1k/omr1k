@@ -1,6 +1,6 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hey, I'm Omar <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 
-- Junior mobile apps developer, Native iOS/Flutter 
+- Junior mobile apps developer | Native iOS/Flutter 
 
 - Software Tester | Selenium 🟩 Robot Framework 🟩 Appium 🟩 API Testing 🟩 Manual Testing 
 
