@@ -1,4 +1,4 @@
-<h1 style="text-align: center;margin-bottom: 5px;">Hey, I'm Omar <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 style="text-align: center;margin-bottom: 5px;"> Hey, ich bin Omar <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 
 - Software Entwickler | Creatio Plattform Entwickler
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/omr1k/omr1k/refs/heads/main/creatio.png" height="40" width="52" alt="creatio logo"  />
+    <img src="https://raw.githubusercontent.com/omr1k/omr1k/refs/heads/main/creatio2.png" height="40" width="52" alt="creatio logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" width="52" alt="swift logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
